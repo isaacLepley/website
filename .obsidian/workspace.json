@@ -11,10 +11,14 @@
             "id": "e7074d8b99088b08",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Isaac Christmas List.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "Isaac Christmas List"
             }
           }
         ]
