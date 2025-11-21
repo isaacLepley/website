@@ -47,3 +47,9 @@ coal
 	- Taken for Granite
 
 - D&D Welcome to Hellfire Club
+
+## Accessories
+
+- Opossum Playmat
+
+ - https://dariaaksenova.com/merch/wot-opossums-playmats-n3pfc
