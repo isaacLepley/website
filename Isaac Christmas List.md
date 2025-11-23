@@ -16,6 +16,8 @@ coal
 
 ## Games
 
+- Nintendo Switch 2
+
 - The Bible is Funny
 
 - Munchkin Expansions
