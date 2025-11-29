@@ -6,11 +6,8 @@ coal
 ## Books
 
 - Dungeons and Dragons: Worlds and Realms
-
 - Dungeons and Dragons: The Book of Dragons
-
 - Dungeon Crawler Carl
-
 - Dungeons and Dragons: The Finest Edge of Twilight 
 
 
