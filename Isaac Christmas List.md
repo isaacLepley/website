@@ -14,41 +14,27 @@ coal
 ## Games
 
 - Nintendo Switch 2
-
 - The Bible is Funny
-
 - Munchkin Expansions
-
 	- 6
-
 	- 7
-
 	- 8
-
 	- 9
-
 	- 10
-
 	- Dead and Deader
-
 	- Warm Fuzzies
-
 	- Snakes
-
 	- Unicorns
-
 	- Rats
-
 	- The Floor is Larva
-
 	- Pony Excess
-
 	- Taken for Granite
-
 - D&D Welcome to Hellfire Club
 
 ## Accessories
 
 - Opossum Playmat
-
  -  https://dariaaksenova.com/merch/wot-opossums-playmats-n3pfc 
+- Ultrawide monitor Samsung 48-52 inches
+- Quality microphone on arm stand for gaming and streaming.
+- Quality bluetooth headphones for gaming.
