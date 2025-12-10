@@ -1,7 +1,7 @@
 
 # Isaac Christmas List
 
-coal
+~~coal~~
 
 ## Books
 
